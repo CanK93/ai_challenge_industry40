@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='This is our repo for the AI Challenge Team Can Industry',
-    author='Can',
+    author='CanK',
     license='',
 )
